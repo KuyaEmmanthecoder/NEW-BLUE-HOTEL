@@ -1,1 +1,1 @@
-# NEW-BLUE-HOTEL
+# bluegate
